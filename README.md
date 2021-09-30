@@ -2,11 +2,11 @@
   <img align="right" alt="Jona-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/847156490032381984/893005000811380786/output_Mg0hI2.gif?width=473&height=473">
 </div>
 
-### Opa, como vai? Me chamo Jonathan Gotz
+### Hey, what's up? I am Jonathan Gotz
 
-- 🔭 Atualmente cursando Ciências da Computação na faculdade UFFS 
-- 🌱 Atualmente me aprofundando em python e aprendendo html com css
-- 📫 Para entrar em contato comigo mande um email para: jonathang.correa@hotmail.com
+- 🔭 I am currently studying Computer Science in the college UFFS and hopefully become a full-stack software engineer
+- 🌱 Currently lerning python, HTML and CSS
+- 📫 In case you want to talk with me, send me an email: jonathang.correa@hotmail.com
 
 ##
 <div align="center">
