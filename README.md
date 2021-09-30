@@ -1,7 +1,3 @@
- <div>
-  <img align="right" alt="Jona-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/847156490032381984/893005000811380786/output_Mg0hI2.gif?width=473&height=473">
-</div>
-
 ### Hey, what's up? I am Jonathan Gotz
 
 - 🔭 I am currently studying Computer Science in the college UFFS and hopefully become a full-stack software engineer
