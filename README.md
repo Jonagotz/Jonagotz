@@ -1,8 +1,8 @@
 ### Hey, what's up? I am Jonathan Gotz
 
-- 🔭 I am currently studying Computer Science in the college UFFS and hopefully become a full-stack software engineer
-- 🌱 Currently lerning python, HTML and CSS
-- 📫 In case you want to talk with me, send me an email: jonathang.correa@hotmail.com
+- 🔭 I am currently studying Computer Science in UFFS and hopefully become a full-stack software engineer
+- 🌱 Currently learning Python, HTML and CSS
+- 📫 In case you want to talk to me, send me an e-mail: jonathang.correa@hotmail.com
 
 ##
 <div align="center">
