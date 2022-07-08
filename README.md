@@ -1,8 +1,7 @@
 ### Hey, what's up? I am Jonathan Gotz
 
-- 🔭 I am currently studying Computer Science in UFFS and hopefully become a full-stack software engineer
-- 🌱 Currently learning C and Ruby and pretending to study HTML, CSS and Javascript
-- 📫 In case you want to talk to me, send me an e-mail: jonathansgore@hotmail.com
+- 🔭 I am currently studying Computer Science at UFFS and hopefully will become a full-stack developer
+- 🌱 Currently learning C and Ruby and pretending to study HTML, CSS and Javascript for future projects
 
 ##
 <div align="center">
