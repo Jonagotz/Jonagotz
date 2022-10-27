@@ -1,7 +1,7 @@
 ### Hey, what's up? I am Jonathan Gotz
 
-- 🔭 I am currently studying Computer Science at UFFS and hopefully will become a full-stack developer
-- 🌱 Currently learning Java, C and Ruby and pretending to study HTML, CSS and Javascript for future projects
+- 🔭 I am currently studying Computer Science at UFFS while i work as an trainee programmer at Solidus Smart organization.
+- 🌱 Currently learning Java and C for university projects and experiencing Ruby for work while studying HTML, CSS and Javascript for future projects.
 
 ##
 <div align="center">
