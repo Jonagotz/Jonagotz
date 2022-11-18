@@ -11,9 +11,9 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jona-HTML" height="50" width="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-html-mobile-app-development-flaticons-lineal-color-flat-icons.png">
-  <img align="center" alt="Jona-CSS" height="50" width="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-css-mobile-app-development-flaticons-lineal-color-flat-icons.png">
-  <img align="center" alt="Jona-JS" height="50" width="50" src="https://img.icons8.com/dusk/512/javascript-logo.png"
+  <img align="center" alt="Jona-HTML" height="50" width="50" src="https://img.icons8.com/color/512/html-5.png">
+  <img align="center" alt="Jona-CSS" height="50" width="50" src="https://img.icons8.com/stickers/512/css3.png">
+  <img align="center" alt="Jona-JS" height="50" width="50" src="https://img.icons8.com/fluency/512/javascript.png"
   <img align="center" alt="Jona-Py" height="50" width="50" src="https://img.icons8.com/color/344/python--v1.png">
   <img align="center" alt="Jona-C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
   <img align="center" alt="Jona-Ruby" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1322/1322787.png">
