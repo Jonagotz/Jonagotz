@@ -19,6 +19,7 @@
   <img align="center" alt="Jona-C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
   <img align="center" alt="Jona-Ruby" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1322/1322787.png">
   <img align="center" alt="Jona-Rails" height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png">
+  <img align="center" alt="Jona-PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
   
   ### <div align="center">Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></div>
