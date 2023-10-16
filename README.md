@@ -1,4 +1,6 @@
-## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="28"> Hey, what's up? I am Jonathan Gotz
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006eed&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=006eed&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+what's+up%3F+I+am+Jonathan+Gotz;Welcome+to+my+Github+account!)](https://git.io/typing-svg)
 
 - 🔭 I am currently studying Computer Science at UFFS while i work as a trainee programmer at Solidus Smart organization.
 - 🌱 Currently learning Java and C for university projects and experiencing Ruby on Rails, HTML, CSS and Javascript/JQuery for work.
@@ -29,5 +31,5 @@
   <a href="https://www.linkedin.com/in/jonathan-gotz-3316a91a0/" target="_blank"><img height="50" widht="50" src="https://cdn-icons-png.flaticon.com/512/185/185964.png" target="_blank"></a> 
   <a href="https://open.spotify.com/user/12178053738?si=0678edf2c4ba47ff"><img height="50" widht="50" src="https://cdn-icons-png.flaticon.com/512/185/185974.png" target="_blank"></a>
 </div>
-
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006eed&height=120&section=footer"/>
   
