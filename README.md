@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=006eed&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+what's+up%3F+I+am+Jonathan+Gotz;Welcome+to+my+Github+account!)](https://git.io/typing-svg)
 
 - 🔭 I am currently studying Computer Science at UFFS.
-- 🌱 Currently learning C# for new projects and specialization.
+- 🌱 Currently learning Haskell for university projects and experiencing C# with .NET Core for work.
 
 ##
 <div align="center">
@@ -19,6 +19,8 @@
   <img align="center" alt="Jona-JQuery" height="50" width="50" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-512.png">
   <img align="center" alt="Jona-Py" height="50" width="50" src="https://img.icons8.com/color/344/python--v1.png">
   <img align="center" alt="Jona-C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+  <img align="center" alt="Jona-Cs" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
+  <img align="center" alt="Jona-DotNetCore" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg">
   <img align="center" alt="Jona-Ruby" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1322/1322787.png">
   <img align="center" alt="Jona-Rails" height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png">
   <img align="center" alt="Jona-PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
