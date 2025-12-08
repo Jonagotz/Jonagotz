@@ -17,8 +17,8 @@
   <img align="center" alt="Jona-CSS" height="50" width="50" src="https://img.icons8.com/stickers/512/css3.png">
   <img align="center" alt="Jona-JS" height="50" width="50" src="https://img.icons8.com/fluency/512/javascript.png">
   <img align="center" alt="Jona-JQuery" height="50" width="50" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-512.png">
-  <img align="center" alt="Jona-Py" height="50" width="50" src="https://img.icons8.com/color/344/python--v1.png">
-  <img align="center" alt="Jona-C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+  <!--  <img align="center" alt="Jona-Py" height="50" width="50" src="https://img.icons8.com/color/344/python--v1.png"> -->
+  <!--  <img align="center" alt="Jona-C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"> -->
   <img align="center" alt="Jona-Cs" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
   <img align="center" alt="Jona-DotNetCore" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg">
   <img align="center" alt="Jona-Ruby" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1322/1322787.png">
